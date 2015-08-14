@@ -15,6 +15,10 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	Branches would be helpful when working on new experimental features which
+	 could cause the code to become unstable. Creatinbg a branch allows you
+	 to keep your stable code, complete the new feature and then merge the
+	 test branch into the master once it is complete.
 
 How do the diagrams help you visualize the branch structure?
 
