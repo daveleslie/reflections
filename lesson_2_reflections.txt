@@ -33,3 +33,6 @@ the diagram the way we do?
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+	pros: 	Saves a lot of time in adding new code to existing code logically
+			automatically
+	cons: 	You have to resolve merge conflicts manually 
