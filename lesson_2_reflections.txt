@@ -21,9 +21,15 @@ organized? How would branches help?
 	 test branch into the master once it is complete.
 
 How do the diagrams help you visualize the branch structure?
+	Diagrams make it easy to work out which commits are reachable from each
+	branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	The result is that Git merges the changes that were made to each branch 
+	since the branches were split from eachother. That way, all the changes 
+	that were made to each branch are reflected in the code of the new merged
+	branch. 
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
